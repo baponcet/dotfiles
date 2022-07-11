@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ba.poncet@gmail.com
+	name = Baptiste Poncet
